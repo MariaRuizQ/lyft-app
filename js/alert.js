@@ -12,7 +12,7 @@ $(document).ready(function(){
     x = '0123456789';
     y = 3;
 
-    var generated = $('#code').text('Tu código es: '+ 'LAB' + generated_code(x,y));
+    var generated = $('#code').text('Tu código es: '+ 'LAB - ' + generated_code(x,y));;
     console.log(generated);
   });
 });

@@ -11,8 +11,15 @@
 }
 
 .option-img{
-  width: 5px;
-  height: 5px;
-  background-image: url('../../assets/images/mexico.png');
-  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+}
+
+.input-digits{
+  width: 15px;
+}
+
+.data{
+  width: 100%;
+  height: 100vh;
 }
