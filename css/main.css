@@ -1,0 +1,18 @@
+/*estilos vista splash y principal*/
+.img-fondo{
+  width: 100%;
+  height: 100vh;
+}
+/*vista principal*/
+.img{
+  position: relative;
+}
+.button{
+}
+
+.option-img{
+  width: 5px;
+  height: 5px;
+  background-image: url('../../assets/images/mexico.png');
+  background-repeat: no-repeat;
+}
